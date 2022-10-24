@@ -1,3 +1,12 @@
+---
+#title:"Case 3"
+#author: "[219]"
+#format: pdf
+#echo: true
+#output: true
+#editor: visual
+---
+
 ## Instruksjoner
 
 Denne oppgaven skal løses interaktivt i RStudio ved å legge inn egen kode og kommentarer. Det ferdige dokumentet lagres med kandidatnummeret som navn `[kandidatnummer]_SOK1004_C3_H22.qmd` og lastes opp på deres GitHub-side. Hvis du har kandidatnummer 43, så vil filen hete `43_SOK1004_C3_H22.qmd`. Påse at koden kjører og at dere kan eksportere besvarelsen til pdf. Lever så lenken til GitHub-repositoriumet i Canvas.
@@ -36,9 +45,7 @@ $$
 
 Tolk ligning $(4)$. Gi en konkret forklaring på hva tallet representerer.
 
-*\[Besvar Oppgave I her\]*
-Tallet er en måte å regne ut hvor mye KPI'en øker eller faller hver måned ved bruk av prosentvis endring i KonsumPrisIndeksen.
-# Oppgave II: Rydd i data
+*\[Besvar Oppgave I her\]* Tallet er en måte å regne ut hvor mye KPI'en øker eller faller hver måned ved bruk av prosentvis endring i KonsumPrisIndeksen. \# Oppgave II: Rydd i data
 
 Vi begynner med å rydde og laste inn pakker.
 
